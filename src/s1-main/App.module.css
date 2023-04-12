@@ -3,9 +3,14 @@
 }
 
 .hw {
+    border-top: 2px solid #2d2c2c;
+    padding: 5%;
+    box-shadow: 0px 5px 5px -5px rgba(34, 60, 80, 0.6) inset;
+    width: 80%;
 
+    margin-left: 10%;
 }
 
 .hwTitle {
-
+    margin: 3% 0px 2% 3% ;
 }

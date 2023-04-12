@@ -1,4 +1,9 @@
 .message {
+    position: relative;
+    margin-top: 2%;
+    left: 40%;
+    width: 600px;
+
 
 }
 
@@ -7,23 +12,37 @@
 }
 
 .imageAndText img {
-
+    position: relative;
+    bottom: 2px;
+    width: 10%;
+    height: auto;
+    border-radius: 50%;
+    float: right;
 }
 
 .text {
-
+    background: #06c;
+    width: 500px;
+    padding: 10px;
+    border-radius: 7px;
+    color: #FFFFFF;
 }
-
-.text:after {
+.text:after{
 
 }
 
 .name {
-
+    font-size: 17px;
+    position:relative;
+    top:0px;
+    right: -55%;
+    margin-bottom: 10px;
+    font-weight: 700;
 }
 
 .messageText {
-
+    font-size: 16px;
+    text-align: right;
 }
 
 .time {
