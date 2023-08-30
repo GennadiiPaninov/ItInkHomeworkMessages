@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ItInkHomeworkMessages/static/css/main.1c6c0544.css",
-    "main.js": "/ItInkHomeworkMessages/static/js/main.34e7ba6b.js",
+    "main.css": "/ItInkHomeworkMessages/static/css/main.69ee2ddd.css",
+    "main.js": "/ItInkHomeworkMessages/static/js/main.d0655859.js",
     "static/js/787.66cb4309.chunk.js": "/ItInkHomeworkMessages/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/ItInkHomeworkMessages/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/404.svg": "/ItInkHomeworkMessages/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
@@ -10,12 +10,12 @@
     "static/media/checked.svg": "/ItInkHomeworkMessages/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/ItInkHomeworkMessages/index.html",
     "static/media/burger.svg": "/ItInkHomeworkMessages/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
-    "main.1c6c0544.css.map": "/ItInkHomeworkMessages/static/css/main.1c6c0544.css.map",
-    "main.34e7ba6b.js.map": "/ItInkHomeworkMessages/static/js/main.34e7ba6b.js.map",
+    "main.69ee2ddd.css.map": "/ItInkHomeworkMessages/static/css/main.69ee2ddd.css.map",
+    "main.d0655859.js.map": "/ItInkHomeworkMessages/static/js/main.d0655859.js.map",
     "787.66cb4309.chunk.js.map": "/ItInkHomeworkMessages/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c6c0544.css",
-    "static/js/main.34e7ba6b.js"
+    "static/css/main.69ee2ddd.css",
+    "static/js/main.d0655859.js"
   ]
 }
