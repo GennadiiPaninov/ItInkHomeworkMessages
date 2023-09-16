@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ItInkHomeworkMessages/static/css/main.0674c4a2.css",
-    "main.js": "/ItInkHomeworkMessages/static/js/main.1e9833ba.js",
+    "main.js": "/ItInkHomeworkMessages/static/js/main.d500856d.js",
     "static/js/787.66cb4309.chunk.js": "/ItInkHomeworkMessages/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/ItInkHomeworkMessages/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/200.svg": "/ItInkHomeworkMessages/static/media/200.96248f7df0dde10e0a82ac30418f50bc.svg",
@@ -15,11 +15,11 @@
     "index.html": "/ItInkHomeworkMessages/index.html",
     "static/media/burger.svg": "/ItInkHomeworkMessages/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
     "main.0674c4a2.css.map": "/ItInkHomeworkMessages/static/css/main.0674c4a2.css.map",
-    "main.1e9833ba.js.map": "/ItInkHomeworkMessages/static/js/main.1e9833ba.js.map",
+    "main.d500856d.js.map": "/ItInkHomeworkMessages/static/js/main.d500856d.js.map",
     "787.66cb4309.chunk.js.map": "/ItInkHomeworkMessages/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0674c4a2.css",
-    "static/js/main.1e9833ba.js"
+    "static/js/main.d500856d.js"
   ]
 }
